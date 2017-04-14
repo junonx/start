@@ -1,0 +1,6 @@
+xgatt_lloss 15
+xgatt_alert 18
+xgatt_txpower 21
+xgatt_temperature_celsius 24
+gpio_control 28
+accm_data 32
